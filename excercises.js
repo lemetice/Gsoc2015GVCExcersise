@@ -13,5 +13,6 @@ function palindrome(){
 		
 		alert('Helloooo');
 	}
-
+	//Everything being constant
+	
 }
